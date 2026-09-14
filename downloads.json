@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "source": "github-releases",
+  "repo": "manuvarkey/open-planner-studio",
+  "generatedAt": "2026-09-14T12:28:15.294Z",
+  "releases": [],
+  "totals": {
+    "windows": {
+      "install": 0,
+      "update": 0,
+      "both": 0,
+      "byKind": {}
+    },
+    "macos": {
+      "install": 0,
+      "update": 0,
+      "both": 0,
+      "byKind": {}
+    },
+    "linux": {
+      "install": 0,
+      "update": 0,
+      "both": 0,
+      "byKind": {}
+    }
+  },
+  "polls": 0,
+  "unknown": []
+}
